@@ -1,1 +1,1 @@
-// Basic learning steps 
+// Basic learning & syntex
