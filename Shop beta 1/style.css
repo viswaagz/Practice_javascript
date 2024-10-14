@@ -1,7 +1,7 @@
 
 header  img{
     width: 80px;
-    margin-left: 10px;
+    margin-left: 09px;
 }
 
 header a{
@@ -40,7 +40,7 @@ div button{
     left: 500px;
     /* max-width: 470px; */
     background: rgb(131, 128, 128);
-    padding: 200px 180px;
+    padding: 180px 180px;
     border-radius: 50px;
 }
 
@@ -50,7 +50,7 @@ div button{
     left: 50px;
     /* max-width: 470px; */
     background: rgb(131, 128, 128);
-    padding: 200px 180px;
+    padding: 180px 180px;
     border-radius: 50px;}
 
 .container3{
@@ -59,13 +59,20 @@ div button{
         left: 940px;
         /* max-width: 470px; */
         background: rgb(131, 128, 128);
-        padding: 200px 180px;
+        padding: 180px 180px;
         border-radius: 50px;
     }
 
 div p{
     position: absolute;
-    top: 1200px;
-    left: 400px;
+    top: 1100px;
+    left: 280px;
     font-size: 30px;
 } 
+
+footer{
+    position: absolute;
+    top: 2000px;
+    left: 400px;
+    font-size: 10px;
+}
