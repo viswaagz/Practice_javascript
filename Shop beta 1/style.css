@@ -1,17 +1,30 @@
+@font-face {
+    font-family: caveat;
+    src: url(Material/Caveat/Caveat-VariableFont_wght.ttf);
+
+}
+
+@font-face {
+    font-family: playfair;
+    src: url(Material/Playfair_Display/PlayfairDisplay-VariableFont_wght.ttf);
+}
+
+
 
 header  img{
-    width: 80px;
+    width: 200px;
     margin-left: 09px;
 }
 
 header a{
-    margin-left: 170px;
-    font-size: 20px;
+    margin-left: 150px;
+    font-size: 25px;
     color:black;
     text-decoration: none;
     align-items: center;
-    font-family: playfair;
-    
+    font-family: "caveat";
+    resize: vertical;
+    overflow: auto;
 }
 
 body{
@@ -20,8 +33,11 @@ body{
 
 div h1{
     position: absolute;
-    top: 250px;
-    left: 470px;
+    top: 230px;
+    left: 420px;
+    font-family: "caveat";
+    font-size: 50px;
+    text-decoration: none;
 }
 
 div button{
@@ -32,6 +48,8 @@ div button{
     height: 50px;
     border: 0;
     background-color: #BA5757;
+    font-size: large;
+    font-family: "playfair";
 }
 
 .container2{
@@ -75,4 +93,51 @@ footer{
     top: 2000px;
     left: 400px;
     font-size: 10px;
+}
+
+
+.Scale01{
+    width: 120px;
+    position: absolute;
+    top: 200px;
+    left: 450px
+}
+.scissors02{
+    width: 180px;
+    position: absolute;
+    top: 150px;
+    left: 100px
+}
+.Thread03{
+    width: 180px;
+    position: absolute;
+    top: 450px;
+    left: 570px;   
+}
+
+.thread04{
+    width: 120px;
+    position: absolute;
+    top: 350px;
+    left: 250px;   
+}
+.pin07{
+    width: 150px;
+    position: absolute;
+    top: 120px;
+    left: 800px
+}
+
+.bundle06{
+    width: 150px;
+    position: absolute;
+    top: 170px;
+    left: 1050px
+}
+
+.machine05{
+    width: 150px;
+    position: absolute;
+    top: 380px;
+    left: 980px
 }
