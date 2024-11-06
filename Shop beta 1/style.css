@@ -61,6 +61,13 @@ div button{
     padding: 180px 180px;
     border-radius: 50px;
 }
+#parakey{
+    position:absolute;
+        top: 225px;
+        left: 10px;
+        font-size: 15px;
+
+}
 
 .container1{
     position: absolute;
@@ -69,7 +76,14 @@ div button{
     /* max-width: 470px; */
     background: rgb(131, 128, 128);
     padding: 180px 180px;
-    border-radius: 50px;}
+    border-radius: 50px;
+}
+#pic1{
+        position:absolute;
+        top: 25px;
+        left: 30px;
+        width: 300px;
+    }
 
 .container3{
         position: absolute;
@@ -83,17 +97,29 @@ div button{
 
 div p{
     position: absolute;
-    top: 1100px;
+    top: 1050px;
     left: 280px;
     font-size: 30px;
 } 
 
-footer{
+.open{
     position: absolute;
-    top: 2000px;
-    left: 400px;
-    font-size: 10px;
+    top: 1300px;
+    left: 80px;
+    width: 600px;
 }
+
+.openwords{
+    position: absolute;
+    top: 1350px;
+    left: 700px;
+}
+.Service{
+    position: absolute;
+    top: 1550px;
+    left: 710px;
+}
+
 
 
 .Scale01{
@@ -140,4 +166,64 @@ footer{
     position: absolute;
     top: 380px;
     left: 980px
+}
+
+footer{
+    position: absolute;
+    top: 1900px;
+    left: 15px;
+    font-size: 10px;
+    background: rgb(8, 8, 8);
+        padding: 100px 660px;
+        border-radius: 0px;
+}
+
+footer h1{
+    position: absolute;
+    top: 5px;
+    left: 15px;
+}
+
+.Contact{
+    position: absolute;
+    top: 40px;
+    left: 20px;
+    font-size: 20px;
+}
+
+.AboutUniqio{
+    position: absolute;
+    top: 40px;
+    left: 400px;
+    font-size: 20px;
+}
+
+.Account{
+    position: absolute;
+    top: 40px;
+    left: 700px;
+    font-size: 20px;
+
+}
+
+.Guru_Social_Account{
+    position: absolute;
+    top: 40px;
+    left: 1000px;
+    font-size: 20px;
+    color:rgb(255, 255, 255);
+}
+.socialmedia{
+    position: absolute;
+    top: 55px;
+    left: 45px;
+}
+.Contact{
+    color:rgb(255, 255, 255);
+}
+a{
+    color:rgb(255, 255, 255);
+    text-decoration-line: none;
+    text-decoration: none;
+
 }
