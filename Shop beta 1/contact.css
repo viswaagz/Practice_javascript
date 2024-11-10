@@ -1,0 +1,63 @@
+body{
+    background-color: #F2E5D2;
+}
+
+form{
+    position: absolute;
+    top: 50px;
+    left: 350px;
+    background: rgb(131, 128, 128);
+    padding: 30px 30px;
+    border-radius: 10px;
+}
+
+h1{
+    margin-left: 600px;
+    font-size: 25px;
+    color:black;
+}
+.Scale01{
+    width: 120px;
+    position: absolute;
+    top: 30px;
+    left: 900px
+}
+.scissors02{
+    width: 180px;
+    position: absolute;
+    top: 150px;
+    left: 100px
+}
+.Thread03{
+    width: 180px;
+    position: absolute;
+    top: 450px;
+    left: 570px;   
+}
+
+.thread04{
+    width: 120px;
+    position: absolute;
+    top: 350px;
+    left: 250px;   
+}
+.pin07{
+    width: 150px;
+    position: absolute;
+    top: 120px;
+    left: 1100px
+}
+
+.bundle06{
+    width: 150px;
+    position: absolute;
+    top: 170px;
+    left: 950px
+}
+
+.machine05{
+    width: 150px;
+    position: absolute;
+    top: 380px;
+    left: 980px
+}
